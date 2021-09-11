@@ -1,1 +1,6 @@
-https://colab.research.google.com/drive/1n27Ij935mspVXa-xk2vI-lYwK51eowiE?usp=sharing
+URL : https://colab.research.google.com/drive/1n27Ij935mspVXa-xk2vI-lYwK51eowiE?usp=sharing
+
+In this project we used Image Processing concept and some Deep Learning algorothms like K-Means for classify the state of leaf, SVM, ANN etc
+Though I'm not a python programmer, still I learned Deep Learning algorithms to contribute in our project.
+If you go through the mentioned colab link you can see the source code, how firstly we convert the RGB image to GrayImage then we got the Co-occurance matrix.
+Cause for finding the Histogram, Standard Deviation, Mean we need Co-occurance matrix.
