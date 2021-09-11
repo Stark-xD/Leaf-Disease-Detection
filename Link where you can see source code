@@ -4,3 +4,5 @@ In this project we used Image Processing concept and some Deep Learning algoroth
 Though I'm not a python programmer, still I learned Deep Learning algorithms to contribute in our project.
 If you go through the mentioned colab link you can see the source code, how firstly we convert the RGB image to GrayImage then we got the Co-occurance matrix.
 Cause for finding the Histogram, Standard Deviation, Mean we need Co-occurance matrix.
+
+Next we have to apply K-Means algo to classify all the leafs and so on.
